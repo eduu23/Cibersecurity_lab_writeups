@@ -41,4 +41,4 @@ detrás de cada decisión y documentación clara de principio a fin — no solo 
 
 ## Contacto
 
-- LinkedIn: _(añade tu enlace)_
+- LinkedIn: www.linkedin.com/in/eduardo-lucas-guinea-0bb33a352
