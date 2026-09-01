@@ -20,7 +20,7 @@ detrás de cada decisión y documentación clara de principio a fin — no solo 
 | [Compromiso de dominio Active Directory vía pivoting por DMZ](active-directory-domain-compromise/) | Red Team / AD | Pivoting HTTP (Neo-reGeorg), Pass-the-Hash, Kerberoasting, DCSync |
 | [Auditoría de intrusión sobre infraestructura Linux](auditoria-intrusion-linux/) | Pentesting web/sistemas | SQLi, SQLMap, RCE (ProFTPD, Drupal), Metasploit, PwnKit |
 | [Análisis forense y respuesta a incidentes (DFIR)](dfir-analisis-forense/) | Forense | FTK Imager, Volatility, Wireshark, gdb, Pestudio, esteganografía |
-| _Despliegue seguro con Docker/Kubernetes y CI/CD_ | Bastionado | _(próximamente)_ |
+| [Despliegue seguro: Docker, Kubernetes y CI/CD](despliegue-seguro-devsecops/) | DevSecOps / Bastionado | Docker Compose, k3s, Sealed Secrets, Prometheus/Grafana, Jenkins, SonarQube |
 
 ---
 
@@ -36,3 +36,7 @@ detrás de cada decisión y documentación clara de principio a fin — no solo 
 
 - **eJPT** (INE / eLearnSecurity) — Junior Penetration Tester
 - **CompTIA Security+** — en curso
+
+## Contacto
+
+- LinkedIn: _(añade tu enlace)_
