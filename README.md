@@ -21,6 +21,8 @@ detrás de cada decisión y documentación clara de principio a fin — no solo 
 | [Auditoría de intrusión sobre infraestructura Linux](auditoria-intrusion-linux/) | Pentesting web/sistemas | SQLi, SQLMap, RCE (ProFTPD, Drupal), Metasploit, PwnKit |
 | [Análisis forense y respuesta a incidentes (DFIR)](dfir-analisis-forense/) | Forense | FTK Imager, Volatility, Wireshark, gdb, Pestudio, esteganografía |
 | [Despliegue seguro: Docker, Kubernetes y CI/CD](despliegue-seguro-devsecops/) | DevSecOps / Bastionado | Docker Compose, k3s, Sealed Secrets, Prometheus/Grafana, Jenkins, SonarQube |
+| [Threat Hunting: incidente en infraestructura crítica (SCADA/OT)](threat-hunting-scada/) | Threat Hunting / DFIR | Event IDs de Windows, análisis de red, timeline, NIST 800-61, MITRE |
+| [Bastionado de redes y sistemas (hardening)](bastionado-hardening/) | Bastionado / Blue Team | Endpoints, identidades (PAM/SSH), SQL Server (TDE), DLP, cadena de suministro |
 
 ---
 
@@ -28,8 +30,8 @@ detrás de cada decisión y documentación clara de principio a fin — no solo 
 
 - **Hacking ético / Red Team** — enumeración, explotación, pivoting multi-salto,
   post-explotación y ataques a Active Directory.
-- **Análisis forense (DFIR)** — adquisición de evidencias, análisis de memoria RAM,
-  forense de red y análisis de malware.
+- **Análisis forense (DFIR) y threat hunting** — adquisición de evidencias, análisis de
+  memoria RAM, forense de red, análisis de malware y respuesta a incidentes.
 - **Bastionado y despliegue seguro** — hardening, contenedores (Docker/Kubernetes) y CI/CD.
 
 ## Certificaciones
