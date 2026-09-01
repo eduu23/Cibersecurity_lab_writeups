@@ -37,8 +37,3 @@ detrás de cada decisión y documentación clara de principio a fin — no solo 
 
 - **eJPT** (INE / eLearnSecurity) — Junior Penetration Tester
 - **CompTIA Security+** — en curso
-
-## Contacto
-
-- LinkedIn: _(añade tu enlace)_
-- Correo: educasguinea@gmail.com
