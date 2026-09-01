@@ -18,7 +18,7 @@ detrás de cada decisión y documentación clara de principio a fin — no solo 
 
 | Writeup | Área | Técnicas clave |
 |---|---|---|
-| [Compromiso de dominio Active Directory vía pivoting por DMZ](writeups/active-directory-domain-compromise/) | Red Team / AD | Pivoting HTTP (Neo-reGeorg), Pass-the-Hash, Kerberoasting, DCSync |
+| [Compromiso de dominio Active Directory vía pivoting por DMZ](active-directory-domain-compromise/) | Red Team / AD | Pivoting HTTP (Neo-reGeorg), Pass-the-Hash, Kerberoasting, DCSync |
 | _Auditoría de intrusión sobre infraestructura Linux_ | Pentesting web/sistemas | _(próximamente)_ |
 | _Análisis forense y respuesta a incidentes (DFIR)_ | Forense | _(próximamente)_ |
 | _Despliegue seguro con Docker/Kubernetes y CI/CD_ | Bastionado | _(próximamente)_ |
